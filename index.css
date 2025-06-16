@@ -11,7 +11,7 @@ header .symbol .img {
   width: 15vw;
   height: 15vw;
   border-radius: 15vw;
-  background: url(/images/symbol.png) no-repeat center/cover;
+  background: url(/athlete/images/symbol.png) no-repeat center/cover;
 }
 
 header .symbol .text .athlete {
@@ -125,7 +125,7 @@ main ul li:hover {
 .enroll .numberphone .number .arrow {
   height: 0.8vw;
   width: 0.8vw;
-  background: url(/images/arrow-down.png) no-repeat center/contain;
+  background: url(/athlete/images/arrow-down.png) no-repeat center/contain;
   margin-left: 2vw;
 }
 
@@ -213,7 +213,7 @@ nav .search .searchinput:focus {
 nav .search .searchimg {
   width: 1vw;
   height: 1vw;
-  background: url(/images/search.png) no-repeat center/cover;
+  background: url(/athlete/images/search.png) no-repeat center/cover;
   position: relative;
   left: 22vw;
   top: -0.7vw;
@@ -230,7 +230,7 @@ section {
 section .pan {
   width: 100%;
   height: 28vw;
-  background: url(/images/pan.jpg) no-repeat center/cover;
+  background: url(/athlete/images/pan.jpg) no-repeat center/cover;
 }
 
 section .left {
@@ -238,12 +238,12 @@ section .left {
   position: absolute;
   width: 5vw;
   height: 28vw;
-  background: url(/images/left.png) no-repeat center/contain;
+  background: url(/athlete/images/left.png) no-repeat center/contain;
   top: 18.4vw;
 }
 
 section .left:hover {
-  background: linear-gradient(to right, transparent, rgba(0, 0, 0, 0.5)), url(/images/left.png) no-repeat center/contain;
+  background: linear-gradient(to right, transparent, rgba(0, 0, 0, 0.5)), url(/athlete/images/left.png) no-repeat center/contain;
 }
 
 section .right {
@@ -251,13 +251,13 @@ section .right {
   position: absolute;
   width: 5vw;
   height: 28vw;
-  background: url(/images/right.png) no-repeat center/contain;
+  background: url(/athlete/images/right.png) no-repeat center/contain;
   left: 94.5vw;
   top: 18.4vw;
 }
 
 section .right:hover {
-  background: linear-gradient(to left, transparent, rgba(0, 0, 0, 0.5)), url(/images/right.png) no-repeat center/contain rgba(0, 0, 0, 0.3);
+  background: linear-gradient(to left, transparent, rgba(0, 0, 0, 0.5)), url(/athlete/images/right.png) no-repeat center/contain rgba(0, 0, 0, 0.3);
 }
 
 section .caption {
